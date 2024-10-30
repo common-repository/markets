@@ -1,0 +1,10 @@
+div.actionbtns{
+	float: left;
+    margin-top: 13px;
+    width: 200px;
+}
+
+button.actionbtn{
+	float:left;
+	margin-right: 30px !important;
+}
